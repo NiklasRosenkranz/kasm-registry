@@ -1,6 +1,6 @@
 {
   "friendly_name": "VSCode-Openssh",
-  "image_src": "blob:https://niklasrosenkranz.github.io/89df392b-f6ca-4269-81e0-d786367c2899",
+  "image_src": "vscode.jpeg",
   "description": "VSCode mit openSSH-client",
   "cores": 2,
   "memory": 2768,
