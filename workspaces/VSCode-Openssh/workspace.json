@@ -1,0 +1,21 @@
+{
+  "friendly_name": "VSCode-Openssh",
+  "image_src": "blob:https://niklasrosenkranz.github.io/89df392b-f6ca-4269-81e0-d786367c2899",
+  "description": "VSCode mit openSSH-client",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Development"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "name": "ghcr.io/niklasrosenkranz/kasmregistry:latest",
+  "architecture": [
+    "amd64",
+    "arm64"
+  ]
+}
